@@ -52,5 +52,3 @@ If a time is present after the date, ex:
 
 the time will be used to sort transactions. Otherwise, transactions on the same day will be sorted in the
 order specified in the file(s).
-
-
